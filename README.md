@@ -12,7 +12,7 @@
 4. 原仓库 review 这个 bug，如果是正确的话，就会 merge 到他自己的项目中
 
 至此，整个 pull request 的过程就结束了。
+作者：beepony 来自知乎
 
-作者：beepony
-链接：https://www.zhihu.com/question/21682976/answer/79489643
-来源：知乎
+	另有一个简易的解释：我修改了你的代码，请（request）你把我修改的拉（pull）回去合并
+
